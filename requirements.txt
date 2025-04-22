@@ -1,0 +1,9 @@
+opencv-python 
+ultralytics
+imageio[ffmpeg]
+easyocr 
+pandas 
+openpyxl 
+gspread 
+oauth2client
+python-dotenv
